@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohteihae.nsa-today.com/sitemap.xml
